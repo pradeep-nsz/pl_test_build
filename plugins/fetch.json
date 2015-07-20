@@ -1,0 +1,20 @@
+{
+    "com.phonegap.plugins.facebookconnect": {
+        "source": {
+            "type": "local",
+            "path": "/home/santhose/Santhose/Work Material/NSolutionz/Software SDKs/phonegap-facebook-plugin-master"
+        }
+    },
+    "com.brodysoft.sqlitePlugin": {
+        "source": {
+            "type": "local",
+            "path": "/home/santhose/Santhose/Work Material/NSolutionz/Software SDKs/Cordova-SQLitePlugin-master"
+        }
+    },
+    "org.apache.cordova.inappbrowser": {
+        "source": {
+            "type": "local",
+            "path": "/home/santhose/Santhose/Work Material/NSolutionz/Software SDKs/cordova-plugin-inappbrowser"
+        }
+    }
+}
